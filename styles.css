@@ -1,0 +1,19 @@
+header {
+  background: beige;
+  color: red;
+  line-height: 60%;
+}
+
+section {
+  background: beige;
+  line-height: 40%;
+}
+
+.a {
+  color: red;
+}
+
+footer {
+  background: beige;
+  line-height: 25%;
+}
