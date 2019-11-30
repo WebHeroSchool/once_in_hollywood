@@ -1,0 +1,21 @@
+header {
+  background: beige;
+  color: red;
+}
+
+section {
+  background: beige;
+}
+
+.a {
+  color: red;
+}
+
+footer {
+  background: beige;
+}
+
+main {
+  background: beige;
+  margin-top: 05%;
+}
