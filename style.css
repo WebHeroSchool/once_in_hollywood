@@ -1,0 +1,31 @@
+header {
+  background: beige;
+  color: red;
+}
+
+section {
+  background: beige;
+}
+
+.a {
+  font-family: 'Old Standard TT', serif;
+}
+
+.b {
+  font-family: 'Playfair Display SC', serif;	
+}
+
+.c {
+  color: red;
+  font-family: 'Playfair Display SC', serif;
+}
+
+footer {
+  background: beige;
+}
+
+main {
+  background: beige;
+  margin-top: 05%;
+  color: red;
+}
